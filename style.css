@@ -1,11 +1,11 @@
 body {
-	background-color: purple;
+	background-color: black;
 	padding-left: 2vw;
-	color: black;
+	color: red;
 }
 
 header.name {
-	font-family: 'Lilita One', cursive;
+	font-family: 'Ink Free', cursive;
 	font-size: 11vw;
 	margin-bottom: 80px;
 }
